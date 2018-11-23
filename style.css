@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+html,body{
+  height: 100%;
+}
+
+.page-mainer{
+	margin-top: 20px;
+	text-align: center;
+	color: pink;
+}
